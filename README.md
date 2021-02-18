@@ -1,0 +1,1 @@
+# phpstorm-magento-live-templates
